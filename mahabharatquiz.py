@@ -9,7 +9,7 @@ d = input(" question 4 what is the name of abhimanyu's mother in mahabharat \n")
 e = input(" question 5 who is the father of bhisma pitamah  \n")
 f = input("who was king shantanu's first wife \n")
 g = input("who did duryodhana crown as king of anga \n")
-h = input("who was karna's charioteer in the war \n")
+h = input("who was dhritrastra's charioteer  \n")
 i = input("who is the real father of arjun \n ")
 j = input("who killed dushasana \n")
 if a == "yudhistir" or a == "yudhisthir" : 
